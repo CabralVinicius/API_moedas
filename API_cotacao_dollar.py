@@ -25,3 +25,4 @@ while True:
     print(cotacao['BTCBRL']['create_date'])
     time.sleep(5)
     print("\n")
+    print("\n")
